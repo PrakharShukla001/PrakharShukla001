@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working in *DevOps*<br>- 🏢 Previously worked as a *Network Engineer at HCL*<br>- 🤝 I’m looking to collaborate on *DevOps automation, CI/CD pipelines, cloud infrastructure, and containerized applications*<br>- 🆘 I’m looking for help with *advanced Kubernetes concepts, cloud architecture best practices, and production-scale deployments*<br>- 🌱 I’m currently learning *Kubernetes, AWS services, Infrastructure as Code (Terraform), and advanced CI/CD practices*<br>- 💬 Ask me about *Linux, Networking, Git, CI/CD, Docker, and DevOps tools*<br>- ⚡ Fun fact: I enjoy automating repetitive tasks and optimizing deployments 🚀
+- 🔭 I’m currently working as *DevOps Engineer*<br>- 🏢 Previously worked as a *Network Engineer at HCL*<br>- 🤝 I’m looking to collaborate on *DevOps automation, CI/CD pipelines, cloud infrastructure, and containerized applications*<br>- 🆘 I’m looking for help with *advanced Kubernetes concepts, cloud architecture best practices, and production-scale deployments*<br>- 🌱 I’m currently learning *Kubernetes, AWS services, Infrastructure as Code (Terraform), and advanced CI/CD practices*<br>- 💬 Ask me about *Linux, Networking, Git, CI/CD, Docker, and DevOps tools*<br>- ⚡ Fun fact: I enjoy automating repetitive tasks and optimizing deployments 🚀
 
 
 ## 🌐 Socials:
