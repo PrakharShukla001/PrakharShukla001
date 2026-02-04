@@ -1,16 +1,16 @@
 
-# 💫 About Me:<br>
+# 💫 About Me:
 
 ### - 🔭I’m currently working as *DevOps Engineer*<br>
-## - 🏢 Previously worked as a *Network Engineer at HCL*<br>
-## - 🤝 I’m looking to collaborate on *DevOps automation, CI/CD pipelines, cloud infrastructure, and containerized applications*<br>
-## - 🆘 I’m looking for help with *advanced Kubernetes concepts, cloud architecture best practices, and production-scale deployments*<br>
-## - 🌱 I’m currently learning *Kubernetes, AWS services, Infrastructure as Code (Terraform), and advanced CI/CD practices*<br>
-## - 💬 Ask me about *Linux, Networking, Git, CI/CD, Docker, and DevOps tools*
-## - ⚡ Fun fact: I enjoy automating repetitive tasks and optimizing deployments 🚀
+### - 🏢 Previously worked as a *Network Engineer at HCL*<br>
+### - 🤝 I’m looking to collaborate on *DevOps automation, CI/CD pipelines, cloud infrastructure, and containerized applications*<br>
+### - 🆘 I’m looking for help with *advanced Kubernetes concepts, cloud architecture best practices, and production-scale deployments*<br>
+### - 🌱 I’m currently learning *Kubernetes, AWS services, Infrastructure as Code (Terraform), and advanced CI/CD practices*<br>
+### - 💬 Ask me about *Linux, Networking, Git, CI/CD, Docker, and DevOps tools*
+### - ⚡ Fun fact: I enjoy automating repetitive tasks and optimizing deployments 🚀
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-shukla-267025191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharshuklatech@gmail.com) 
 
 # 💻 Tech Stack:
