@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-### - 🔭I’m currently working as *DevOps Engineer*<br>
+### - 🔭I’m currently working as *DevOps Engineer-Intern*<br>
 ### - 🏢 Previously worked as a *Network Engineer at HCL*<br>
 ### - 🤝 I’m looking to collaborate on *DevOps automation, CI/CD pipelines, cloud infrastructure, and containerized applications*<br>
 ### - 🆘 I’m looking for help with *advanced Kubernetes concepts, cloud architecture best practices, and production-scale deployments*<br>
