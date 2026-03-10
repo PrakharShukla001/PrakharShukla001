@@ -18,10 +18,10 @@
 ## 💫 About Me
 
 ```yaml
-name       : Prakhar Shukla
-location   : Lucknow, India
-role       : DevOps Engineer Intern
-previous   : Network Engineer @ HCL
+Name       : Prakhar Shukla
+Location   : Lucknow, India
+Role       : DevOps Engineer
+Previous   : Network Engineer @ HCL
 ```
 
 | | |
