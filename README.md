@@ -1,97 +1,118 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:00d4ff,100:7c3aed&height=200&section=header&text=Prakhar%20Shukla&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Ex-Network%20Engineer%20%40%20HCL&descAlignY=58&descColor=a0aec0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:00d4ff,100:7c3aed&height=280&section=header&text=Prakhar%20Shukla&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=⚡%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20Ex%20HCL&descSize=18&descAlignY=62&descColor=00d4ff&animation=twinkling&stroke=00d4ff&strokeWidth=2)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=echo+%22automating+the+boring+stuff...%22;kubectl+get+pods+--all-namespaces;terraform+apply+--auto-approve;docker-compose+up+-d+%26%26+echo+%22deployed!%22;git+push+origin+main)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%24+echo+%22Automating+the+boring+stuff...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker-compose+up+-d+%26%26+echo+%22Deployed!%22;%24+git+push+origin+main+--force-with-lease)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-267025191)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshuklatech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrakharShukla001)
-[![Profile Views](https://visitcount.itsvg.in/api?id=PrakharShukla001&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-267025191)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshuklatech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrakharShukla001)
+[![Profile Views](https://komarev.com/ghpvc/?username=PrakharShukla001&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/PrakharShukla001)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+## 💫 About Me
+
+```bash
+┌──────────────────────────────────────────┐
+│  $ whoami                                │
+│  > Prakhar Shukla                        │
+│                                          │
+│  $ cat role.txt                          │
+│  > DevOps Engineer Intern                │
+│  > Ex-Network Engineer @ HCL            │
+│  > Based in Lucknow, India 🇮🇳           │
+└──────────────────────────────────────────┘
+```
+
+- 🔭 Currently working as **DevOps Engineer Intern**
+- 🏢 Previously **Network Engineer @ HCL**
+- 🤝 Open to collaborate on **DevOps automation, CI/CD, Cloud infra & containerized apps**
+- 🆘 Seeking help with **advanced Kubernetes, cloud architecture & production-scale deployments**
+- 🌱 Currently learning **Kubernetes · AWS · Terraform · Advanced CI/CD**
+- 💬 Ask me about **Linux · Networking · Git · CI/CD · Docker · DevOps**
+- ⚡ Fun fact: **I enjoy automating repetitive tasks and optimizing deployments 🚀**
+
+<br clear="right"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrakharShukla001&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💫 About Me
-
-```yaml
-Name       : Prakhar Shukla
-Location   : Lucknow, India
-Role       : DevOps Engineer
-Previous   : Network Engineer @ HCL
-```
-
-| | |
-|---|---|
-| 🔭 **Currently** | Working as **DevOps Engineer Intern** |
-| 🏢 **Previously** | Network Engineer at **HCL** |
-| 🤝 **Collaborate** | DevOps automation, CI/CD pipelines, cloud infra & containerized apps |
-| 🆘 **Learning Help** | Advanced Kubernetes, cloud architecture & production-scale deployments |
-| 🌱 **Learning** | Kubernetes · AWS · Terraform (IaC) · Advanced CI/CD |
-| 💬 **Ask Me** | Linux · Networking · Git · CI/CD · Docker · DevOps tools |
-| ⚡ **Fun Fact** | I enjoy automating repetitive tasks and optimizing deployments 🚀 |
-
----
-
 ## 💻 Tech Stack
 
-**Languages**
+### 🖥️ Languages
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat-square&logo=Apache+Groovy&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-**Cloud Platforms**
+### 🛠️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat-square&logo=alibabacloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+### 🗄️ Servers & Databases
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**DevOps & Infrastructure**
+### 🔧 VCS & Collaboration
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitpod](https://img.shields.io/badge/Gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-
-**Servers & Databases**
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
-
-**VCS & Project Management**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-
-**Design**
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+### 🎨 Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
 
@@ -99,11 +120,25 @@ Previous   : Network Engineer @ HCL
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=PrakharShukla001&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=PrakharShukla001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharShukla001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=donut" height="180"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=PrakharShukla001&theme=codeSTACKr&hide_border=false)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharShukla001&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=PrakharShukla001&theme=tokyonight&hide_border=true&fire=00d4ff&ring=7c3aed&currStreakLabel=00d4ff)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Prakhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakharShukla001&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=7c3aed&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,10 +148,32 @@ Previous   : Network Engineer @ HCL
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0a0c10&height=120&section=footer)
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrakharShukla001/PrakharShukla001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrakharShukla001/PrakharShukla001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PrakharShukla001/PrakharShukla001/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=PrakharShukla001&icon=2&color=1)](https://visitcount.itsvg.in)
+
+*💡 Proudly automating everything that moves — one pipeline at a time.*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:000000&height=120&section=footer)
+
+</div>
