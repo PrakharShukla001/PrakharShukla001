@@ -1,6 +1,292 @@
 <div align="center">
 
-![Prakhar Shukla](https://raw.githubusercontent.com/PrakharShukla001/PrakharShukla001/main/header_animated.svg)
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Black background always -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;family=Rajdhani:wght@700&amp;display=swap');
+    </style>
+
+    <!-- Gradient for name text -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="50%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong glow for name -->
+    <filter id="nameGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Cyan glow -->
+    <filter id="cyanGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradient for top line -->
+    <linearGradient id="lineGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="30%" style="stop-color:#7c3aed"/>
+      <stop offset="50%" style="stop-color:#00d4ff"/>
+      <stop offset="70%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </linearGradient>
+
+    <!-- Gradient for bottom line -->
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="30%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#7c3aed"/>
+      <stop offset="70%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </linearGradient>
+
+    <!-- Underline gradient -->
+    <linearGradient id="underlineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="50%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </linearGradient>
+
+    <!-- Orb gradient purple -->
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Orb gradient cyan -->
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Clip path -->
+    <clipPath id="svgClip">
+      <rect width="1280" height="320"/>
+    </clipPath>
+  </defs>
+
+  <!-- HARDCODED BLACK BACKGROUND — never changes -->
+  <rect width="1280" height="320" fill="#000000"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.04" clip-path="url(#svgClip)">
+    <!-- Vertical lines -->
+    <line x1="60" y1="0" x2="60" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="120" y1="0" x2="120" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="180" y1="0" x2="180" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="240" y1="0" x2="240" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="360" y1="0" x2="360" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="420" y1="0" x2="420" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="480" y1="0" x2="480" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="540" y1="0" x2="540" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="600" y1="0" x2="600" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="660" y1="0" x2="660" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="720" y1="0" x2="720" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="780" y1="0" x2="780" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="840" y1="0" x2="840" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="900" y1="0" x2="900" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="960" y1="0" x2="960" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="1020" y1="0" x2="1020" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="1080" y1="0" x2="1080" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="1140" y1="0" x2="1140" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="1200" y1="0" x2="1200" y2="320" stroke="#00d4ff" stroke-width="1"/>
+    <!-- Horizontal lines -->
+    <line x1="0" y1="60" x2="1280" y2="60" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="0" y1="120" x2="1280" y2="120" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="0" y1="240" x2="1280" y2="240" stroke="#00d4ff" stroke-width="1"/>
+    <line x1="0" y1="300" x2="1280" y2="300" stroke="#00d4ff" stroke-width="1"/>
+  </g>
+
+  <!-- Animated glowing orbs -->
+  <ellipse cx="0" cy="80" rx="300" ry="300" fill="url(#orb1)" clip-path="url(#svgClip)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="1280" cy="260" rx="280" ry="280" fill="url(#orb2)" clip-path="url(#svgClip)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="900" cy="160" rx="180" ry="180" fill="url(#orb1)" clip-path="url(#svgClip)">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Top border line animated -->
+  <rect x="0" y="0" width="1280" height="2" fill="url(#lineGrad1)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom border line animated -->
+  <rect x="0" y="318" width="1280" height="2" fill="url(#lineGrad2)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets — TL -->
+  <path d="M20,20 L20,55 M20,20 L55,20" stroke="#00d4ff" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <!-- TR -->
+  <path d="M1260,20 L1260,55 M1260,20 L1225,20" stroke="#00d4ff" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- BL -->
+  <path d="M20,300 L20,265 M20,300 L55,300" stroke="#7c3aed" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <!-- BR -->
+  <path d="M1260,300 L1260,265 M1260,300 L1225,300" stroke="#7c3aed" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="50" r="2" fill="#00d4ff" opacity="0.5">
+    <animate attributeName="cy" values="50;30;50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="270" r="1.5" fill="#7c3aed" opacity="0.5">
+    <animate attributeName="cy" values="270;250;270" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="40" r="2" fill="#7c3aed" opacity="0.4">
+    <animate attributeName="cy" values="40;60;40" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="280" r="1.5" fill="#00d4ff" opacity="0.5">
+    <animate attributeName="cy" values="280;260;280" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="30" r="1" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="cy" values="30;50;30" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="160" r="1.5" fill="#7c3aed" opacity="0.3">
+    <animate attributeName="cx" values="200;220;200" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="140" r="1.5" fill="#00d4ff" opacity="0.3">
+    <animate attributeName="cx" values="1050;1030;1050" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Scanning line effect -->
+  <rect x="0" y="0" width="1280" height="1" fill="rgba(0,212,255,0.15)" clip-path="url(#svgClip)">
+    <animate attributeName="y" values="-2;322;-2" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Top bracket label -->
+  <text x="640" y="68" text-anchor="middle" font-family="'Courier New', monospace" font-size="12"
+        font-weight="700" fill="#00d4ff" letter-spacing="8" opacity="0.7">
+    ⚡ &lt; DEVOPS ENGINEER /&gt; ⚡
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main Name — Prakhar Shukla with glow -->
+  <text x="640" y="178" text-anchor="middle"
+        font-family="'Segoe UI', 'Arial Black', sans-serif"
+        font-size="80" font-weight="900"
+        letter-spacing="6"
+        fill="url(#nameGrad)"
+        filter="url(#nameGlow)">
+    Prakhar Shukla
+  </text>
+
+  <!-- Name shimmer overlay -->
+  <text x="640" y="178" text-anchor="middle"
+        font-family="'Segoe UI', 'Arial Black', sans-serif"
+        font-size="80" font-weight="900"
+        letter-spacing="6"
+        fill="white" opacity="0">
+    Prakhar Shukla
+    <animate attributeName="opacity" values="0;0.15;0;0;0" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Underline below name -->
+  <rect x="340" y="190" width="600" height="1.5" fill="url(#underlineGrad)">
+    <animate attributeName="width" values="0;600;600" dur="1.5s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="x" values="640;340;340" dur="1.5s" begin="0.5s" fill="freeze"/>
+  </rect>
+
+  <!-- Description line -->
+  <text x="640" y="235" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="15" font-weight="600"
+        letter-spacing="4"
+        fill="#00d4ff"
+        filter="url(#cyanGlow)"
+        opacity="0.85">
+    Cloud
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="640" y="235" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="15" font-weight="600"
+        letter-spacing="4"
+        fill="#00d4ff"
+        opacity="0.85">
+    Cloud  |  Automation  |  Ex HCL
+  </text>
+
+  <!-- Separator dots with pulse -->
+  <circle cx="590" cy="231" r="2.5" fill="#7c3aed">
+    <animate attributeName="r" values="2;3.5;2" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="690" cy="231" r="2.5" fill="#7c3aed">
+    <animate attributeName="r" values="2;3.5;2" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Side decorative dots left -->
+  <circle cx="80" cy="140" r="3" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="160" r="4" fill="#7c3aed" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="180" r="3" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Side decorative dots right -->
+  <circle cx="1200" cy="140" r="3" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="160" r="4" fill="#7c3aed" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="180" r="3" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bottom status text -->
+  <text x="640" y="285" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="11" fill="#7c3aed" letter-spacing="3" opacity="0.6">
+    ● SYSTEM ONLINE — ALWAYS BUILDING 🚀
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&background=000000&center=true&vCenter=true&multiline=false&repeat=true&width=435&height=45&lines=%24+echo+%22Automating...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker+compose+up+-d+%7C%7C+Deployed!;%24+git+push+origin+main)](https://git.io/typing-svg)
 
