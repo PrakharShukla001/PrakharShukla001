@@ -4,11 +4,9 @@
 
 </div>
 
-<div align="center">
+<div style="background-color:#000000; padding:10px;" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=435&height=45&lines=%24+echo+%22Automating...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker+compose+up+-d+%7C%7C+Deployed!;%24+git+push+origin+main)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&background=000000&center=true&vCenter=true&multiline=false&repeat=true&width=435&height=45&lines=%24+echo+%22Automating...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker+compose+up+-d+%7C%7C+Deployed!;%24+git+push+origin+main)](https://git.io/typing-svg)
 
 </div>
 
