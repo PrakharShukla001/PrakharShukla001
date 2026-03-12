@@ -1,24 +1,17 @@
-<div align="center">
+<div align="center" style="background-color:#000000; margin:0; padding:0;">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:00d4ff,100:7c3aed&height=280&section=header&text=Prakhar%20Shukla&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=⚡%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20Ex%20HCL&descSize=18&descAlignY=62&descColor=00d4ff&animation=twinkling&stroke=00d4ff&strokeWidth=2)
 
-</div>
-
-<div style="background-color:#000000; padding:10px;" align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&background=000000&center=true&vCenter=true&multiline=false&repeat=true&width=435&height=45&lines=%24+echo+%22Automating...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker+compose+up+-d+%7C%7C+Deployed!;%24+git+push+origin+main)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-267025191)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshuklatech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrakharShukla001)
 [![Profile Views](https://komarev.com/ghpvc/?username=PrakharShukla001&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/PrakharShukla001)
 
+</div>
 </div>
 
 <br/>
