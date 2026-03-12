@@ -37,11 +37,11 @@
 
 ```bash
 ╔══════════════════════════════════════════╗
-║  ░▒▓  SYSTEM BOOT SEQUENCE  ▓▒░         ║
+║  ░▒▓  SYSTEM BOOT SEQUENCE  ▓▒░          ║
 ╠══════════════════════════════════════════╣
 ║                                          ║
 ║  $ whoami                                ║
-║  ▶  Prakhar Shukla                       ║
+║ ▶  Prakhar Shukla                       ║
 ║                                          ║
 ║  $ cat /etc/role                         ║
 ║  ▶  DevOps Engineer [ACTIVE]             ║
@@ -49,10 +49,10 @@
 ║  ▶  Location: Lucknow, India  🇮🇳         ║
 ║                                          ║
 ║  $ uptime                                ║
-║  ▶  Always building. Never stopping.     ║
+║  ▶  Always building. Never stopping.    ║
 ║                                          ║
 ║  $ systemctl status passion              ║
-║  ▶  ● passion.service — RUNNING ✅       ║
+║  ▶  ● passion.service — RUNNING ✅      ║
 ╚══════════════════════════════════════════╝
 ```
 
