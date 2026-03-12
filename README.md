@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%24+echo+%22Automating+the+boring+stuff...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker-compose+up+-d+%26%26+echo+%22Deployed!%22;%24+git+push+origin+main+--force-with-lease)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=435&height=45&lines=%24+echo+%22Automating...%22+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces;%24+terraform+apply+--auto-approve+%E2%9C%85;%24+docker+compose+up+-d+%7C%7C+Deployed!;%24+git+push+origin+main)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
