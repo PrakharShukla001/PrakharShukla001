@@ -46,10 +46,10 @@
 ║   $ cat role        ▶   DevOps Engineer [ACTIVE]  ║
 ║   $ cat past        ▶   Network Eng @ HCL         ║
 ║   $ curl location   ▶   Lucknow, India 🇮🇳         ║
-║   $ uptime          ▶   Always building 🚀         ║
+║   $ uptime          ▶   Always building 🚀       ║
 ║                                                   ║
 ║   $ systemctl status passion                      ║
-║   ▶  ● passion.service — RUNNING ✅               ║
+║   ▶  ● passion.service — RUNNING ✅              ║
 ║                                                   ║
 ╚═══════════════════════════════════════════════════╝
 ```
