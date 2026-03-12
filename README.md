@@ -25,83 +25,52 @@
 
 ---
 
-<!-- DARK ATTRACTIVE ABOUT ME SECTION -->
-
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ## 🌌 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-```bash
-╔══════════════════════════════════════════╗
-║  ░▒▓  SYSTEM BOOT SEQUENCE  ▓▒░          ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  $ whoami                                ║
-║ ▶  Prakhar Shukla                       ║
-║                                          ║
-║  $ cat /etc/role                         ║
-║  ▶  DevOps Engineer [ACTIVE]             ║
-║  ▶  Ex-Network Engineer @ HCL            ║
-║  ▶  Location: Lucknow, India  🇮🇳         ║
-║                                          ║
-║  $ uptime                                ║
-║  ▶  Always building. Never stopping.    ║
-║                                          ║
-║  $ systemctl status passion              ║
-║  ▶  ● passion.service — RUNNING ✅      ║
-╚══════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340" alt="Coding GIF"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<table>
-<thead>
-<tr>
-<th>⚡ Status</th>
-<th>🔍 Detail</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>🔭 Current Role</td>
-<td>DevOps Engineer Intern — building pipelines & infra</td>
-</tr>
-<tr>
-<td>🏢 Past Experience</td>
-<td>Network Engineer @ HCL Technologies</td>
-</tr>
-<tr>
-<td>🌱 Currently Learning</td>
-<td>Kubernetes · AWS · Terraform · Advanced CI/CD</td>
-</tr>
-<tr>
-<td>🤝 Open To Collaborate</td>
-<td>DevOps Automation · Cloud Infra · Containerized Apps</td>
-</tr>
-<tr>
-<td>🆘 Seeking Help With</td>
-<td>Advanced K8s · Cloud Architecture · Production Scale</td>
-</tr>
-<tr>
-<td>💬 Ask Me About</td>
-<td>Linux · Networking · Git · CI/CD · Docker · DevOps</td>
-</tr>
-<tr>
-<td>⚡ Fun Fact</td>
-<td>I automate anything that dares to be repetitive 🚀</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
 
-<br clear="right"/>
+```bash
+╔═══════════════════════════════════════════════════╗
+║         ░▒▓  SYSTEM BOOT SEQUENCE  ▓▒░            ║
+╠═══════════════════════════════════════════════════╣
+║                                                   ║
+║   $ whoami          ▶   Prakhar Shukla            ║
+║   $ cat role        ▶   DevOps Engineer [ACTIVE]  ║
+║   $ cat past        ▶   Network Eng @ HCL         ║
+║   $ curl location   ▶   Lucknow, India 🇮🇳         ║
+║   $ uptime          ▶   Always building 🚀         ║
+║                                                   ║
+║   $ systemctl status passion                      ║
+║   ▶  ● passion.service — RUNNING ✅               ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| ⚡ | Status | 🔍 Detail |
+|---|--------|-----------|
+| 🔭 | Current Role | DevOps Engineer Intern — pipelines & infra |
+| 🏢 | Past Experience | Network Engineer @ HCL Technologies |
+| 🌱 | Currently Learning | Kubernetes · AWS · Terraform · CI/CD |
+| 🤝 | Open To Collaborate | DevOps Automation · Cloud · Containers |
+| 🆘 | Seeking Help With | Advanced K8s · Cloud Architecture |
+| 💬 | Ask Me About | Linux · Git · CI/CD · Docker · DevOps |
+| ⚡ | Fun Fact | I automate anything that dares to repeat 🚀 |
+
+</div>
 
 ---
 
