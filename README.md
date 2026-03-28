@@ -42,8 +42,8 @@
 ╠═══════════════════════════════════════════════════╣
 ║                                                   ║
 ║   $ whoami          ▶   Prakhar Shukla            ║
-║   $ cat role        ▶   Network Cloud Engineer    ║
-║   $ cat past        ▶   Network Cloud Eng    @ HCL║
+║   $ cat role        ▶   Cloud Engineer            ║
+║   $ cat past        ▶   Cloud Eng @ HCL           ║
 ║   $ curl location   ▶   Lucknow, India 🇮🇳         ║
 ║   $ uptime          ▶   Always building 🚀       ║
 ║                                                   ║
@@ -61,8 +61,8 @@
 
 | ⚡ | Status | 🔍 Detail |
 |---|--------|-----------|
-| 🔭 | Current Role | Network Cloud Engineer — pipelines & infra |
-| 🏢 | Past Experience | Network Cloud Engineer @ HCL Technologies |
+| 🔭 | Current Role | Cloud Engineer — pipelines & infra |
+| 🏢 | Past Experience | Cloud Engineer @ HCL Technologies |
 | 🌱 | Currently Learning | Kubernetes · AWS · Terraform · CI/CD |
 | 🤝 | Open To Collaborate | DevOps Automation · Cloud · Containers |
 | 🆘 | Seeking Help With | Advanced K8s · Cloud Architecture |
